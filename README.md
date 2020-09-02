@@ -1,2 +1,2 @@
 # Module-3
-SQL Codes - DML
+SQL Codes - DML, Data Manipulation Language 
